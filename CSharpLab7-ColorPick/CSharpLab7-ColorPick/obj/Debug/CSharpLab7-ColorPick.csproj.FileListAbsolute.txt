@@ -1,0 +1,10 @@
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\bin\Debug\CSharpLab7-ColorPick.exe.config
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\bin\Debug\CSharpLab7-ColorPick.exe
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\bin\Debug\CSharpLab7-ColorPick.pdb
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7-ColorPick.csprojAssemblyReference.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7_ColorPick.Form1.resources
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7_ColorPick.Properties.Resources.resources
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7-ColorPick.csproj.GenerateResource.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7-ColorPick.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7-ColorPick.exe
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab7-ColorPick\CSharpLab7-ColorPick\obj\Debug\CSharpLab7-ColorPick.pdb

@@ -1,0 +1,10 @@
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\bin\Debug\CSharpLab6-RunBut.exe.config
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\bin\Debug\CSharpLab6-RunBut.exe
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\bin\Debug\CSharpLab6-RunBut.pdb
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6-RunBut.csprojAssemblyReference.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6_RunBut.Form1.resources
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6_RunBut.Properties.Resources.resources
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6-RunBut.csproj.GenerateResource.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6-RunBut.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6-RunBut.exe
+C:\Users\Екатерина\Source\Repos\KatFei\csharppr7\CSharpLab6-RunBut\CSharpLab6-RunBut\obj\Debug\CSharpLab6-RunBut.pdb
